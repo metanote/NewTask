@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_room">Ahoy</string>
+    <string name="light">off</string>
+    <string name="noise">yes</string>
+    <string name="image_content_description">description</string>
+    <string name="ringonoff">ring</string>
+	<string name="lightonoff">light</string>
+	<color name="red">#FF0000</color>
+	<color name="grey">#C0C0C0</color>
+	<drawable name="ic_bulb_on">#000000</drawable>
+	
+</resources>
